@@ -1,2 +1,1 @@
-# turing
-Prueba turing IA
+# turingProj

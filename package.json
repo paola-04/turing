@@ -1,0 +1,30 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "backend de la prueba de turing-AI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "node.js",
+    "turing-AI"
+  ],
+  "author": "Paola Belen Anaya Arguello",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.5",
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "firebase-admin": "^9.8.0",
+    "http": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "pg-promise": "^10.12.0"
+  }
+}
